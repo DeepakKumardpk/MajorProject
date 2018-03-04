@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MajorProject</string>
+    <string name="title_activity_label_image">LabelImage</string>
 </resources>
